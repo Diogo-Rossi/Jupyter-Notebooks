@@ -15,5 +15,6 @@
         "titleBar.inactiveBackground": "#ff4f0099",
         "titleBar.inactiveForeground": "#e7e7e799"
     },
-    "peacock.color": "#FF4F00"
+    "peacock.color": "#FF4F00",
+    "jupyter.jupyterServerType": "local"
 }
