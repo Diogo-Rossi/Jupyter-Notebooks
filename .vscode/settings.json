@@ -16,7 +16,8 @@
         "titleBar.inactiveForeground": "#e7e7e799",
         "statusBarItem.remoteBackground": "#ff4f00",
         "statusBarItem.remoteForeground": "#e7e7e7",
-        "sash.hoverBorder": "#ff7233"
+        "sash.hoverBorder": "#ff7233",
+        "commandCenter.border": "#e7e7e799"
     },
     "peacock.color": "#FF4F00",
     "jupyter.jupyterServerType": "local"
